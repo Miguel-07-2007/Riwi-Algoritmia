@@ -1,0 +1,34 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='1020' viewBox='0 0 900 1020'><defs><marker id='arrow' markerWidth='10' markerHeight='10' refX='9' refY='3' orient='auto'><path d='M0,0 L0,6 L9,3 z' fill='#333'/></marker></defs><rect width='100%' height='100%' fill='white'/><g font-family='Arial, sans-serif' font-size='17' text-anchor='middle' stroke='#333' stroke-width='2'>
+<ellipse cx='450' cy='48' rx='150' ry='28' fill='#e8f0fa'/>
+<text x='450' y='54' fill='#111' stroke='none'>Inicio</text>
+<path d='M450,76 L450,107' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,110 820,110 800,166 80,166' fill='#f3f7fc'/>
+<text x='450' y='144' fill='#111' stroke='none'>Escribir &quot;Ingresa la primera nota (de 0 a 5):&quot;</text>
+<path d='M450,166 L450,197' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,200 820,200 800,256 80,256' fill='#f3f7fc'/>
+<text x='450' y='234' fill='#111' stroke='none'>Leer nota1</text>
+<path d='M450,256 L450,287' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,290 820,290 800,346 80,346' fill='#f3f7fc'/>
+<text x='450' y='324' fill='#111' stroke='none'>Escribir &quot;Ingresa la segunda nota (de 0 a 5):&quot;</text>
+<path d='M450,346 L450,377' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,380 820,380 800,436 80,436' fill='#f3f7fc'/>
+<text x='450' y='414' fill='#111' stroke='none'>Leer nota2</text>
+<path d='M450,436 L450,467' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,470 820,470 800,526 80,526' fill='#f3f7fc'/>
+<text x='450' y='504' fill='#111' stroke='none'>Escribir &quot;Ingresa la tercera nota (de 0 a 5):&quot;</text>
+<path d='M450,526 L450,557' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,560 820,560 800,616 80,616' fill='#f3f7fc'/>
+<text x='450' y='594' fill='#111' stroke='none'>Leer nota3</text>
+<path d='M450,616 L450,647' fill='none' marker-end='url(#arrow)'/>
+<rect x='100' y='650' width='700' height='56' fill='#fff6df'/>
+<text x='450' y='684' fill='#111' stroke='none'>suma &lt;- nota1 + nota2 + nota3</text>
+<path d='M450,706 L450,737' fill='none' marker-end='url(#arrow)'/>
+<rect x='100' y='740' width='700' height='56' fill='#fff6df'/>
+<text x='450' y='774' fill='#111' stroke='none'>promedio &lt;- suma / 3</text>
+<path d='M450,796 L450,827' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,830 820,830 800,886 80,886' fill='#f3f7fc'/>
+<text x='450' y='864' fill='#111' stroke='none'>Escribir &quot;El promedio es: &quot;, promedio</text>
+<path d='M450,886 L450,917' fill='none' marker-end='url(#arrow)'/>
+<ellipse cx='450' cy='948' rx='150' ry='28' fill='#e8f0fa'/>
+<text x='450' y='954' fill='#111' stroke='none'>Fin</text>
+</g></svg>

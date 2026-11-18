@@ -1,0 +1,43 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='1290' viewBox='0 0 900 1290'><defs><marker id='arrow' markerWidth='10' markerHeight='10' refX='9' refY='3' orient='auto'><path d='M0,0 L0,6 L9,3 z' fill='#333'/></marker></defs><rect width='100%' height='100%' fill='white'/><g font-family='Arial, sans-serif' font-size='17' text-anchor='middle' stroke='#333' stroke-width='2'>
+<ellipse cx='450' cy='48' rx='150' ry='28' fill='#e8f0fa'/>
+<text x='450' y='54' fill='#111' stroke='none'>Inicio</text>
+<path d='M450,76 L450,107' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,110 820,110 800,166 80,166' fill='#f3f7fc'/>
+<text x='450' y='144' fill='#111' stroke='none'>Escribir &quot;Ingresa el valor de la cuenta:&quot;</text>
+<path d='M450,166 L450,197' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,200 820,200 800,256 80,256' fill='#f3f7fc'/>
+<text x='450' y='234' fill='#111' stroke='none'>Leer cuenta</text>
+<path d='M450,256 L450,287' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,290 820,290 800,346 80,346' fill='#f3f7fc'/>
+<text x='450' y='324' fill='#111' stroke='none'>Escribir &quot;Ingresa el porcentaje de propina:&quot;</text>
+<path d='M450,346 L450,377' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,380 820,380 800,436 80,436' fill='#f3f7fc'/>
+<text x='450' y='414' fill='#111' stroke='none'>Leer porcentaje</text>
+<path d='M450,436 L450,467' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,470 820,470 800,526 80,526' fill='#f3f7fc'/>
+<text x='450' y='504' fill='#111' stroke='none'>Escribir &quot;Ingresa el número de personas:&quot;</text>
+<path d='M450,526 L450,557' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,560 820,560 800,616 80,616' fill='#f3f7fc'/>
+<text x='450' y='594' fill='#111' stroke='none'>Leer personas</text>
+<path d='M450,616 L450,647' fill='none' marker-end='url(#arrow)'/>
+<rect x='100' y='650' width='700' height='56' fill='#fff6df'/>
+<text x='450' y='684' fill='#111' stroke='none'>propina &lt;- cuenta * porcentaje / 100</text>
+<path d='M450,706 L450,737' fill='none' marker-end='url(#arrow)'/>
+<rect x='100' y='740' width='700' height='56' fill='#fff6df'/>
+<text x='450' y='774' fill='#111' stroke='none'>total &lt;- cuenta + propina</text>
+<path d='M450,796 L450,827' fill='none' marker-end='url(#arrow)'/>
+<rect x='100' y='830' width='700' height='56' fill='#fff6df'/>
+<text x='450' y='864' fill='#111' stroke='none'>pagoPorPersona &lt;- total / personas</text>
+<path d='M450,886 L450,917' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,920 820,920 800,976 80,976' fill='#f3f7fc'/>
+<text x='450' y='954' fill='#111' stroke='none'>Escribir &quot;Propina: &quot;, propina</text>
+<path d='M450,976 L450,1007' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,1010 820,1010 800,1066 80,1066' fill='#f3f7fc'/>
+<text x='450' y='1044' fill='#111' stroke='none'>Escribir &quot;Total: &quot;, total</text>
+<path d='M450,1066 L450,1097' fill='none' marker-end='url(#arrow)'/>
+<polygon points='100,1100 820,1100 800,1156 80,1156' fill='#f3f7fc'/>
+<text x='450' y='1134' fill='#111' stroke='none'>Escribir &quot;Cada persona paga: &quot;, pagoPorPersona</text>
+<path d='M450,1156 L450,1187' fill='none' marker-end='url(#arrow)'/>
+<ellipse cx='450' cy='1218' rx='150' ry='28' fill='#e8f0fa'/>
+<text x='450' y='1224' fill='#111' stroke='none'>Fin</text>
+</g></svg>
