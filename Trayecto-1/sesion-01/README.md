@@ -1,4 +1,4 @@
-# Semana 1: algoritmos secuenciales
+# Sesión 1: algoritmos secuenciales
 
 ## Ejercicios
 

@@ -1,4 +1,4 @@
-# Semana 2: lógica y decisiones
+# Sesión 2: lógica y decisiones
 
 ## Ejercicios
 
